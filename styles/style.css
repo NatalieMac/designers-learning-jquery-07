@@ -1,0 +1,17 @@
+dt {
+	cursor: pointer;
+}
+
+dd {
+	background: MidnightBlue;
+	color: white;
+	height: 100px;
+	width: 100px;
+	line-height: 100px;
+	margin: 1em 0;
+	text-align: center;
+}
+
+.hidden {
+	display: none;
+}
